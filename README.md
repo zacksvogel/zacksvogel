@@ -1,4 +1,6 @@
-### Hi there 👋 I'm at high school technology teacher at Smoky Valley High School. I teach a variety of technology to high school students including: web development, 3D printing, video productions, animation, electronics, web literacy, and more. 
+### Hi there 👋 
+
+## I'm at high school technology teacher at Smoky Valley High School. I teach a variety of technology to high school students including: web development, 3D printing, video productions, animation, electronics, web literacy, and more. 
 
 ---
 
@@ -10,6 +12,10 @@
 ## 🌱 I’m currently learning ...
 1. Next.js
 2. Arduino Boards
+
+---
+## 💬 Ask me about ...
+Ask me about my amazing students and their projects!!
 
 ---
 ## 📫 How to reach me: ...
