@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-# I'm at high school technology teacher at Smoky Valley High School. I teach a variety of technology to high school students including: web development, 3D printing, video productions, animation, electronics, web literacy, and more. 
+### I'm at high school technology teacher at Smoky Valley High School. I teach a variety of technology to high school students including: web development, 3D printing, video productions, animation, electronics, web literacy, and more. 
 
 ---
 
