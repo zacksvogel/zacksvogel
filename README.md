@@ -3,13 +3,18 @@
 ---
 
 ## 🔭 I’m currently working on ...
-- 1. Classroom Lesson Plans for the upcoming school year
-- 2. Classroom Website
+1. Classroom Lesson Plans for the upcoming school year
+2. Classroom Website
 
 ---
 ## 🌱 I’m currently learning ...
-- 1. Next.js
-- 2. Arduino Boards
+1. Next.js
+2. Arduino Boards
+
+---
+## 📫 How to reach me: ...
+- zacksvogel@gmail.com
+- https://twitter.com/zacksvogel
 <!--
 **zacksvogel/zacksvogel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
