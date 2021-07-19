@@ -2,12 +2,12 @@
 
 ---
 
-- 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 - 1. Classroom Lesson Plans for the upcoming school year
 - 2. Classroom Website
 
 ---
-- 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 - 1. Next.js
 - 2. Arduino Boards
 <!--
