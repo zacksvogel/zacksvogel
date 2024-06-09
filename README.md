@@ -1,17 +1,18 @@
 ### Hi there 👋 
 
-### I'm at high school technology teacher at Smoky Valley High School. I teach a variety of technology to high school students including: web development, 3D printing, video productions, animation, electronics, web literacy, and more. 
+### I'm at high school technology teacher at Smoky Valley High School. I teach a variety of technology to high school students including: web development, Game Design (Godot and Unity), 3D modeling/printing, video productions, animation, electronics, web literacy, and more. 
 
 ---
 
 ## 🔭 I’m currently working on ...
-1. Classroom Lesson Plans for the upcoming school year
+1. Graduate courses in CS at K-State
 2. Classroom Website
+3. Home Assistant
 
 ---
 ## 🌱 I’m currently learning ...
-1. Next.js
-2. Arduino Boards
+1. Godot
+2. xLights
 
 ---
 ## 💬 Ask me about ...
@@ -19,8 +20,7 @@ Ask me about my amazing students and their projects!!
 
 ---
 ## 📫 How to reach me: ...
-- zacksvogel@gmail.com
-- https://twitter.com/zacksvogel
+- zvogel@smokyvalley.org
 <!--
 **zacksvogel/zacksvogel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
